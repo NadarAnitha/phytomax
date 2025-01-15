@@ -1,0 +1,22 @@
+.faq {
+    margin: 20px;
+}
+.faq-item {
+    margin-bottom: 10px;
+}
+.faq-question {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    text-align: left;
+    font-size: 18px;
+    cursor: pointer;
+}
+.faq-answer {
+    display: none;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+}
